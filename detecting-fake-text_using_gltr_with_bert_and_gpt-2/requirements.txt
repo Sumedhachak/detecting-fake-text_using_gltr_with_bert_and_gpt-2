@@ -1,0 +1,7 @@
+pytorch-pretrained-bert>=0.6.1 
+#torch>=1.0 pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+numpy
+connexion[swagger-ui]
+flask
+PyYaml
+flask_cors
